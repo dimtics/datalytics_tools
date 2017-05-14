@@ -1,5 +1,5 @@
 # datalytics_tools
-Python codes for data analytics tasks. More codes will be added as they are being developed and tested.
+Python codes for data analytics tasks. 
 
 
 Tool 1 - fetch_data.py
